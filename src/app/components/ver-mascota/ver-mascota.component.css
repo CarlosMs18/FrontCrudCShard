@@ -1,0 +1,10 @@
+.card {
+  margin-top: 5px;
+  text-align: center;
+}
+
+.buttonRaised {
+  text-align: center;
+
+  background-color: red;
+}
